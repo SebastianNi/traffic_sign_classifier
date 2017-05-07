@@ -23,7 +23,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Run
 
-In order to run the code in the jupyter notebook you also need the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) as well as the file [**signnames.csv**](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/signnames.csv) from the Udacity project repository.
+In order to run the code in the jupyter notebook you also need the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) as well as the file [**signnames.csv**](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/signnames.csv) from the [Udacity project repository](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project).
 
 Load the file with jupyter notebook using the following command:
 
